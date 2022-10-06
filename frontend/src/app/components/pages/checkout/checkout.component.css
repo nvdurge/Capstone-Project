@@ -1,0 +1,31 @@
+h2 {
+    padding-top: 2rem;
+    /* text-align: center; */
+    color: #e72929;
+}
+
+
+.payment {
+    text-align: center;
+    padding: 5rem;
+    
+}
+
+
+#paynow{
+    color: white;
+    background: #e72929;
+    border: none;
+    font-size: 1.5rem;
+    padding: 1rem;
+    border-radius: 10rem;
+    outline: none;
+    position: relative;
+    right: 1rem;
+    width: 20rem;
+    text-align: center;
+}
+#paynow:hover{
+    background-color: rgb(103, 103, 231);
+    cursor: pointer;
+}
